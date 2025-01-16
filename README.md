@@ -10,12 +10,12 @@
 
 
 <a href="https://github.com/Meenakshi0005">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meenakshi0005&show_icons=true&theme=merko&count_private=true" alt="Meenakshi0005's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meenakshi&show_icons=true&theme=merko&count_private=true" alt="Meenakshi0005's github stats" />
 </a>
 <br/>
 <br/>
 
-## Reachout to me ....
+## Reach out to me ....
 
 <p align="center">
   <a href="mailto:meenakshi.jha962@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
