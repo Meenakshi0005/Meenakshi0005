@@ -2,9 +2,9 @@
 
 
 
-- Automation Test Enginner at <a href="https://www.wolterskluwer.com/en">Wolters Kluwer</a> 
+- Senior Product Software Engineer at <a href="https://www.wolterskluwer.com/en">Wolters Kluwer</a> 
 - I’m currently learning React.
-- Ask me about anything Java, JavaScript, Jest Selenium, RestAssured, I am happy to help.
+- Ask me about anything Java, JavaScript, Jest, Selenium, RestAssured, I am happy to help.
 - I'm a Night Owl.
 - Reading & writing tech blogs whenever possible.
 
